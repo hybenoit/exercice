@@ -1,3 +1,5 @@
 Je voudrais multiplier 5 par 6
 
 5x6 = 24
+
+oh quel erreur : 5x6 = 30
